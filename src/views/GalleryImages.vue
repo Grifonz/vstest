@@ -14,7 +14,7 @@
         </div>
 
         <a href="#" @click="openImage(image)">
-          /*<img :src="image.download_url" width="367" height="267" alt />*/
+          //<img :src="image.download_url" width="367" height="267" alt />
           <img :src="`https://picsum.photos/id/${image.id}/367/267`" width="367" height="267" alt />
         </a>
       </div>
