@@ -39,6 +39,9 @@ It contains Axios http requests.
   - To use libraries such as: https://www.npmjs.com/package/vue-debounce or https://www.npmjs.com/package/debounce-promise (to    v         verify!!!!)
   
   - To set the total number of all images in the server and dynamically calculate the number of pages with the formula:
+  ```js
+    let totNumPages = Math.ceil(totImages / imagesPerPage);
+  ```
   
   
   
