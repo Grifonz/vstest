@@ -30,13 +30,15 @@ It contains Axios http requests.
 
 
 ## Issues:
-  1 Browsing page by page there are continuous requests to the server and this causes a slowdown in performance.
+  - Browsing page by page there are continuous requests to the server and this causes a slowdown in performance.
 
-  2 It was not possible to determine in advance the number of pages according to the limit of images per page. It is because the             server does not provide the list of all the images.
+  - It was not possible to determine in advance the number of pages according to the limit of images per page. It is because the             server does not provide the list of all the images.
 
 
-## Issues:
+## Solutions:
   - To use libraries such as: https://www.npmjs.com/package/vue-debounce or https://www.npmjs.com/package/debounce-promise (to    v         verify!!!!)
   
-  -
+  - To set the total number of all images in the server and dynamically calculate the number of pages with the formula:
+  
+  
   
