@@ -36,7 +36,7 @@ It contains Axios http requests.
 
 
 ## Solutions:
-  - To use libraries such as: https://www.npmjs.com/package/vue-debounce or https://www.npmjs.com/package/debounce-promise (to    v         verify!!!!)
+  - To use libraries such as: https://www.npmjs.com/package/vue-debounce or https://www.npmjs.com/package/debounce-promise (to               verify!!!!)
   
   - To set the total number of all images in the server and dynamically calculate the number of pages with the formula:
   ```js
