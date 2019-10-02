@@ -14,7 +14,7 @@ It contains an input element for setting the number of images per pages.
 It allows to browse the gallery page by page.
 
 
-## View Component Description:
+## View Components Description:
 ### GalleryImages
 It is the images gallery.
 
