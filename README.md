@@ -29,4 +29,9 @@ It contains Axios http requests.
   - vue-router        // Routing (for future implementations)
 
 
+## Issues:
+  - Browsing page by page there are continuous requests to the server and this causes a slowdown in performance.
+
+  - It was not possible to determine in advance the number of pages according to the limit of images per page. It is because the             server does not provide the list of all the images.
+
 
