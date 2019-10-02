@@ -18,5 +18,7 @@ It allows to browse the gallery page by page.
 ### GalleryImages
 It is the images gallery.
 
+### App
+It contains Axios http requests.
 
 
