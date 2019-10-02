@@ -23,6 +23,10 @@ It contains Axios http requests.
 
 
 ## Libraries:
+  - axios             // Http request
+  - fortawesome       // Icons  
+  - lodash            // Utility library (for future implementations)
+  - vue-router        // Routing (for future implementations)
 
 
 
