@@ -74,7 +74,7 @@ input {
 }
 
 .research--box-btn {
-  background-color: #eab61c;
+  background-color: #265a95;
   display: flex;
   color: white;
   margin: auto;
